@@ -7,7 +7,7 @@ To do that, i use the language python [:star::star::star:].
 
 I have work in the past with java[:star:] and C# [:star:].
 
-I exploit sqlServer [:star::star:] and postgre [:star::star:] to manipulate my data.
+I exploit sqlServer [:star::star:] and postgre [:star::star:] to manipulate project data.
 
 Since 2020, i learn many other language, framework and concept to upgrade my skill.
 - HTML [:star::star:], 
